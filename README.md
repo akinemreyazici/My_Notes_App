@@ -1,4 +1,5 @@
-# My Notes App
+# My Notes Application
+
 
 ## Description
 In this project, I aimed to develop a note-taking application that allows me to keep track of my notes locally. With this application, you can save your notes, and when you reopen the application, the saved notes will be displayed in a list retrieved from the SQLite database of the application. You can also delete any selected note whenever you want.
